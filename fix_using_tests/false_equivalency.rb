@@ -1,7 +1,7 @@
 require "pry"
 
 def get_user_input
-  gets.chomp
+  selection(2)
 end
 
 def prompt_user
