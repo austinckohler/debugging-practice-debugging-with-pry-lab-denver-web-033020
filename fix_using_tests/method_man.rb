@@ -7,4 +7,3 @@ end
 def play_game(player2)
   "#{start_game(player1)} is better than #{player2}"
 end
-play_game(player2)
