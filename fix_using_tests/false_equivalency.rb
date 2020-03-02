@@ -13,11 +13,11 @@ end
 def selection(num)
   if num = 1
      "YUM YUM MUNCH MUNCH MUNCH"
-  elsif 
+  elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
   end
 end
-return selection(4)
+return selection(2)
 
 def runner
   prompt_user
